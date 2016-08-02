@@ -1,0 +1,1 @@
+Discord Bot for anonymizing messages to a channel. Send a private message to the bot and it will send the message out on its own to a predetermined guild and channel provided by command line options.
